@@ -1,73 +1,108 @@
-*{
-    margin: 0;
-    padding: 0;
-
+* {
+  margin: 0;
+  padding: 0;
+  top: 0;
 }
 
-body{
+body {
 
-    background-color: rgb(253, 251, 251);
+  background-color: rgb(253, 251, 251);
 }
 
 #cabecalho {
-    background-color:green;
-    top: 0;
-    height: 70px;
-   
-   
-}
+  background-color: green;
+  top: 0;
+  height: 70px;
 
-#titulo{
-    
-    color: white;
-    font-size: 20px;
-    text-align: center;
-}
-
-#minha_foto{
-
-    border: 2px solid black;
-     margin: 10px 0 0 10px;
-}
-
-#img-container{
-
-    display: flex;
-    flex-direction: column;
-    
-}
-
-#my-link{
-    margin-top: 5px;
-    margin-left: 10px;
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 15px;
-    
-}
-
-
-section{
-
-    display: inline-block;
-}
-
-
-#title-licoes_aprendidas{
-
-    display: inline-block;
-    margin: 22px 50px -20px 16px;
 
 }
 
-#licoes_aprendidas{
-    margin: 28px;
-    padding: 32px;
-    
+#titulo {
+
+  color: white;
+  font-size: 20px;
+  text-align: center;
+}
+
+#minha_foto {
+
+  border: 2px solid black;
+  margin: 10px 0 0 10px;
+}
+
+#img-container {
+
+  display: flex;
+  flex-direction: column;
+
+}
+
+#my-link {
+  margin-top: 5px;
+  margin-left: 10px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 15px;
+
 }
 
 
+section {
+
+  display: inline-block;
+  width: 19%;
+}
 
 
+#title-licoes_aprendidas {
+
+  display: inline-block;
+  margin: 22px 50px -20px 16px;
+
+}
+
+#licoes_aprendidas {
+  margin: 28px;
+  padding: 32px;
+
+}
+
+#leasons-description {
+
+  display: inline-block;
+  width: 405px;
+  border: 3px solid black;
+  padding: 20px;
+  line-height: 146%;
+
+}
+
+aside {
+  display: inline-block;
+  width: 40%;
+  display: flex;
+  gap: 50%;
+  
+}
 
 
+table,
+th,
+td {
 
+
+  border: 1px solid black;
+
+}
+
+#table2 {
+
+  display: inline-block;
+  
+}
+
+#rodape {
+
+  padding: 20px;
+  background-color: antiquewhite;
+
+}
