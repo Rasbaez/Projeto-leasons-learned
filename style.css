@@ -68,7 +68,7 @@ section, ul, ol, article{
 #title-licoes_aprendidas {
 
 
-  margin: 22px 50px -20px 16px;
+  margin-bottom: 48px;
 
 }
 
@@ -122,5 +122,8 @@ td {
 
   padding: 20px;
   background-color: antiquewhite;
+  position: fixed;
+  bottom: 0px;
+  width: 100%;
 
 }
