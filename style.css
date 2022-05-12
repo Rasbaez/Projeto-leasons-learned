@@ -93,11 +93,18 @@ section, ul, ol, article{
 
 }
 
-aside, #lado-esquerdo, #lado-direito {
+
+.article-aside{
+
+  display: flex;
+    gap: 46px;
+}
+
+.lado-direito {
     display: flex;
     gap: 8%;
     padding: 25px;
-
+    width: 58%;
  
   
 }
@@ -109,20 +116,17 @@ td {
 
 
   border: 1px solid black;
+  padding: 3px;
 
 }
 
-#table2 {
 
-  display: inline-block;
-  
-}
 
 #rodape {
 
   padding: 20px;
   background-color: antiquewhite;
-  position: fixed;
+
   bottom: 0px;
   width: 100%;
 
