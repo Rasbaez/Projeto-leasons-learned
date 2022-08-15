@@ -29,7 +29,7 @@ body {
 
 #titulo {
 
-  color: white;
+  color: rgb(90, 30, 30);
   font-size: 20px;
   text-align: center;
 }
@@ -112,7 +112,8 @@ section, ul, ol, article{
 
 table,
 th,
-td {
+td,
+caption {
 
 
   border: 1px solid black;
