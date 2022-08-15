@@ -1,4 +1,4 @@
-Neste projeto Foram abordados os principais conceitos em HTML como, como ultilizar as TAGS semânticas do HTML!
+Neste projeto Foram abordados os principais conceitos em HTML como, ultilizar as TAGS semânticas do HTML, e os demais conceitos sobre a ultilização de cada uma.
 
 Os requisitos foram: 
 
