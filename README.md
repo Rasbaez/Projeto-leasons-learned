@@ -1,6 +1,6 @@
 Neste projeto Foram abordados os principais conceitos em HTML como, ultilizar as TAGS semânticas do HTML, e os demais conceitos sobre a ultilização de cada uma.
 
-Os requisitos foram: 
+Para atingir aprovação nos foi necesário atingir 8% dos requisitos!!
 
 1. Adicione uma cor de fundo específica para a página
 2. Adicione uma barra superior com um título
